@@ -37,8 +37,8 @@ DATA        := data
 INCLUDES    := include
 EXEFS_SRC   := exefs_src
 #ROMFS       := romfs
-APP_TITLE   := Tinfoil
-APP_AUTHOR  := Adubbz
+APP_TITLE   := NXmanager
+APP_AUTHOR  := Various People
 APP_VERSION := 0.2.1
 
 #---------------------------------------------------------------------------------
