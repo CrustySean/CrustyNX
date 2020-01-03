@@ -1,5 +1,5 @@
-# Tinfoil - Archive
-This is an archive of the code used in the original Tinfoil, licensed under the MIT license. Please see https://github.com/XorTroll/Goldleaf/ for a title installer under active development.
+# CrustyNX
+A simple title installer manager for the switch
 
 ## Installation
 1. Install FS sig patches, there are two ways of doing this:
@@ -18,8 +18,3 @@ This is an archive of the code used in the original Tinfoil, licensed under the 
 4. Run ``remote_install_pc.py`` on your PC on the same network as your Switch with python ``remote_install_pc.py <switch ip> <nsp directory>``, or alternatively with no arguments for interactive mode.
 5. ???
 6. Profit
-
-## Donate
-If you enjoy my work any and all donations are much appreciated :)
-
-[![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=TBB9Q9YL9AB74&lc=AU&item_name=Adubbz%27s%20Tools%20%26%20Game%20Mods&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted)
